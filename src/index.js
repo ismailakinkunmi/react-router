@@ -5,6 +5,7 @@ import "./index.css";
 import App from "./App";
 import Expenses from "./expenses";
 import Invoices from "./invoices";
+import Invoice from "./invoice";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
